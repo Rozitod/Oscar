@@ -45,13 +45,13 @@ Hai, %ucapan %name! 👋
 *Tanggal:* %date
 *Uptime:* %uptime (%muptime)
 
-➪𝐌𝐚𝐦𝐩𝐢𝐫 𝐤𝐞 𝐲𝐨𝐮𝐭𝐮𝐛𝐞 𝐉𝐚𝐫𝐨𝐭
-
-https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ
+➪ 𝑫𝒐𝒏𝒂𝒔𝒊 𝑨𝒍𝒍 𝒑𝒂𝒚𝒎𝒆𝒏𝒕 𝒏𝒐𝒎𝒐𝒓 𝒅𝒊 𝒃𝒂𝒘𝒂𝒉
+ 
+ 0882006485504
 
 ➪𝐆𝐫𝐨𝐮𝐩 𝐛𝐨𝐭 𝐨𝐟𝐟𝐜𝐢𝐚𝐥
 
-https://chat.whatsapp.com/L0f0zjXFcBLINqJkuqOZDJ
+https://chat.whatsapp.com/CU0NIekiHQzCm5H2qUP1Lx
 *Limit:* %limit
 *Level:* %level
 *XP:* %exp
